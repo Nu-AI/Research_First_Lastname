@@ -38,6 +38,21 @@ Now, I know I already gave you guys a task, but I have to give you guys one more
     + .gitignore ( if you want to, not necessary )
     + README
 + .gitignore
++ requirements.txt
 + README
 
-So, let me tell you a little about `.gitignore`. This file is meant to prevent us from adding some certain type of files to git. We can select the extension, also folder paths if it is in the source directory, and lets you add only important stuff to your repo. 
+So, let me tell you a little about `.gitignore`. This file is meant to prevent us from adding some certain type of files to git. We can select the extension, also folder paths if it is in the source directory, and lets you add only important stuff to your repo.
+`requirements.txt` consists of all the packages that need to be installed for running the code that you posted. A easy way to make this text file is by installing `pipreqs`
+```bash
+pip install pipreqs
+```
+Do this to install pipreqs and then just simply do this.
+```
+pipreqs /YOUR_DIRECTORY
+```
+or 
+if you are in the current project directory, then 
+```
+pipreqs ./
+```
+Making a requirements file is optional but is helpful if you create one for others to use. I recommend having this in shared repos.
