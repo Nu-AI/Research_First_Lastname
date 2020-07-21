@@ -4,12 +4,15 @@ you can contact [me](https://github.com/anurag0511) anytime.
 # Tutorials
 and here is a very good [resource](https://githowto.com/) or you could watch the video [here](https://www.youtube.com/watch?v=USjZcfj8yxE) for you to learn using git (#tutorials). Believe me, its confusing at the beginning but is very easy and will make your life 100x easier once you get used with it. 
 
-If you already have your repo, then just transfer it here. 
+If you already have your repo, then just transfer it here and it is recommended to rename the repo in the aforementioned format before transferring. 
 
-- Go to settings in your personal account.
+- Go to settings in your personal repo.
+    ![images](images/settings.PNG)
 - Scroll down to the `Danger Zone` area.
+    ![images](images/transfer.PNG)
 - Select the `Transfer` option.
 - Type `Nu-AI` in the organization name.
+    ![images](images/settings.PNG)
 - Voila!!, it will be transferred. :grinning:
 
 So, if you are wondering what might happen to your `git origin` path, on your system. Do not worry, it does it automatically and might nag you a bit to change the origin.
@@ -28,6 +31,7 @@ Now, I know I already gave you guys a task, but I have to give you guys one more
  
  So, as for the repository structure, I will elaborate it here once again. Organize it this way, neat things look better. 
  
+ 
  Root
 + Scripts ( Have any of your simple or hacky scripts here )
 + Project_name ( Any project that you would have worked on or currently working on )
@@ -41,7 +45,7 @@ Now, I know I already gave you guys a task, but I have to give you guys one more
 + requirements.txt
 + README
 
-So, let me tell you a little about `.gitignore`. This file is meant to prevent us from adding some certain type of files to git. We can select the extension, also folder paths if it is in the source directory, and lets you add only important stuff to your repo.
+So, let me tell you a little about `.gitignore`. This file is meant to prevent us from adding some certain type of files to git. We can select the extension, also folder paths if it is in the source directory, and lets you add only required stuff to your repo. It is recommended to not put log files, datasets or any other intermediate generated files on your repo.
 `requirements.txt` consists of all the packages that need to be installed for running the code that you posted. A easy way to make this text file is by installing `pipreqs`
 ```bash
 pip install pipreqs
