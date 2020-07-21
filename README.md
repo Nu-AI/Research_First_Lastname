@@ -12,7 +12,9 @@ If you already have your repo, then just transfer it here and it is recommended 
     ![images](images/transfer.PNG)
 - Select the `Transfer` option.
 - Type `Nu-AI` in the organization name.
-    ![images](images/finish_transfer.PNG)
+    <img src="images/finish_transfer.PNG" width="500px" />
+- You will be redirected to a page as shown below. You can ignore the Teams option and select 'Transfer' option.
+    ![image3](images/ignore_message.PNG)
 - Voila!!, it will be transferred. :grinning:
 
 So, if you are wondering what might happen to your `git origin` path, on your system. Do not worry, it does it automatically and might nag you a bit to change the origin.
