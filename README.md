@@ -2,7 +2,7 @@
 Neurons, here are some tips and tricks for maintaining everything seamlessly on a [VCS ( Version Control System )](https://www.geeksforgeeks.org/version-control-systems/#:~:text=Version%20control%20systems%20are%20a,(snapshots)%20of%20the%20project.) like github which uses git. So, if you are a bit confused over how to use git, no worries 
 you can contact [me](https://github.com/anurag0511) anytime.
 # Tutorials
-and here is a very good [resource](https://githowto.com/) or you could watch the video [here](https://www.youtube.com/watch?v=USjZcfj8yxE) for you to learn using git (#tutorials). Believe me, its confusing at the beginning but is very easy and will make your life 100x easier once you get used with it. 
+And here is a very good [resource](https://githowto.com/) or you could watch the video [here](https://www.youtube.com/watch?v=USjZcfj8yxE) for you to learn using git (#tutorials). Believe me, its confusing at the beginning but is very easy and will make your life 100x easier once you get used with it. 
 
 If you already have your repo, then just transfer it here and it is recommended to rename the repo in the aforementioned format before transferring. 
 
@@ -31,7 +31,7 @@ Now, I know I already gave you guys a task, but I have to give you guys one more
  
  So, you see I am writing all this in a writing language called [Markdown](https://www.markdownguide.org/). It is simpler than LaTeX, and is very easy to learn. Here is a [resource](https://guides.github.com/features/mastering-markdown/) for that. Please go through that also. 
  
- So, as for the repository structure, I will elaborate it here once again. Organize it this way, neat things look better. 
+ So, as for the repository structure, I will elaborate it here once again. Organize it this way, everyone wants to keep their house clean so should our repos also. 
  
  
  Root
